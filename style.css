@@ -1,0 +1,44 @@
+/* default style */
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', Arial, sans-serif;
+    font-size: 0.96em;
+    color: #4d4e53;
+    line-height: 1.5em;
+
+}
+
+/* custom style */
+.main-doc{
+    background-color: #fff;
+   
+}
+.main-doc{
+    padding: 30px
+    
+}
+.main-section h2{
+    font-size: 2em;
+    color: #000;
+}
+.group-list li {
+    padding: 5px
+}
+.main-section .jumbotron {
+    background: #f7f7f7;;
+    padding: 10px;
+    line-height:2.5em
+}
+
+/* display: block;
+padding: 10px 30px;
+color: #4d4e53;
+text-decoration: none;
+cursor: pointer;
+} */
+/* .navBar{
+    display: flex;
+    flex-direction: row
+} */
